@@ -1,6 +1,6 @@
 0. Introduction and Prerequisites: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/trl-tuto/blob/main/00_llm_pretraining_and_data_preparation.ipynb) (Requires T4 GPU)
 1. Supervised Fine-Tuning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/trl-tuto/blob/main/01_sft.ipynb) (Requires T4 GPU)
-2. Group Relative Policy Optimization: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/trl-tuto/blob/main/02_grpo.ipynb) (Requires 2 GPUs)
+2. Group Relative Policy Optimization: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/trl-tuto/blob/main/02_grpo.ipynb) (Requires T4 GPU)
 
 ## Before you start
 
